@@ -1,5 +1,5 @@
-## Exam:
-
+# Exam:
+### Points to evaluate:
 - [ ] Write a Smart Contract that store PiggyBanks following the next rules:
   - A PiggyBank will be created by the user with only three fields:
     a) finishDate: The date when the PiggyBank will be broken*.
@@ -16,8 +16,10 @@
 - [ ] Tests
 - [ ] Deploy
 
-#### How I'm going to verify?
+### How I'm going to verify?
 Every repository will have the the code that meets the requirements.
 
-**Bomus**: Write a Smart Contract that generate a random number.
-- I doesn't care the range of the random number.
+### **Bonus**
+
+- [ ] Write a Smart Contract that generate a random number.
+  - I doesn't care the range of the random number.
