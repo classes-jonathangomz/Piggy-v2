@@ -1,6 +1,6 @@
 # Exam:
 ### Points to evaluate:
-- [ ] Write a Smart Contract that store PiggyBanks following the next rules (25%):
+- [ ] Write a Smart Contract that store PiggyBanks following the next rules (_25%_):
   - A PiggyBank will be created by the user with only three fields:
     1. finishDate: The date when the PiggyBank will be broken*.
     2. userAddress: The address of the user who is the owner.
@@ -9,9 +9,9 @@
   - The funds only will be avaliable when the finishDate is pass.
   - Only the owner will be able to see his balance.
   - Everyone can add funds to PiggyBanks of others, but only if the receiver have a PiggyBank created.
-- [ ] Compile (35%)
-- [ ] Tests (35%)
-- [ ] Deploy (5%)
+- [ ] Compile (_35%_)
+- [ ] Tests (_35%_)
+- [ ] Deploy (_5%_)
 
 * Search for how to store a date in Solidity.
 
