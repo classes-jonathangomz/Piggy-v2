@@ -2,9 +2,9 @@
 ### Points to evaluate:
 - [ ] Write a Smart Contract that store PiggyBanks following the next rules (25%):
   - A PiggyBank will be created by the user with only three fields:
-    a) finishDate: The date when the PiggyBank will be broken*.
-    b) userAddress: The address of the user who is the owner.
-    c) balance: The amount of Ether inside the PiggyBank.
+    1. finishDate: The date when the PiggyBank will be broken*.
+    2. userAddress: The address of the user who is the owner.
+    3. balance: The amount of Ether inside the PiggyBank.
 
   - The funds only will be avaliable when the finishDate is pass.
   - Only the owner will be able to see his balance.
