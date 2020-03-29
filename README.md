@@ -21,10 +21,10 @@ Every repository will have the the code that meets the requirements.
 **After the deadline I'm gonna edit this file to let you know how much do you get from every point.**
 
 ### Why that percentaje?
-- _The code_ is not easy part. You need to have the logic and understand the rules.
-- You can have good logic and write the code but if this doesn't _compile_ it doesn't work.
-- _Test_ are essential to work with Smart Contracts (and general development) and you need to be able to write **good** tests.
-- _The deployment_, in this case, is the easiest point.
+- **The code** is not easy part. You need to have the logic and understand the rules.
+- You can have good logic and write the code but if this doesn't **compile** it doesn't work.
+- **Test** are essential to work with Smart Contracts (and general development) and you need to be able to write _**good tests**_.
+- **The deployment**, in this case, is the easiest point.
 
 ### **Bonus**
 
