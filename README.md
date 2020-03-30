@@ -20,12 +20,12 @@ Every repository will have the the code that meets the requirements.
 
 **After the deadline I'm gonna edit this file to let you know how much do you get from every point.**
 
-| #| Point         | Qualification |
-|-:|-------------- |:-------------:|
-| 1| Code          |               |
-| 2| Compilation   |               |
-| 3| Tests         |               |
-| 4| Deployment    |               |
+| #| Point         | Qualification | Value |
+|-:|-------------- |:-------------:|:-----:|
+| 1| Code          |               | _25%_ |
+| 2| Compilation   |               | _35%_ |
+| 3| Tests         |               | _35%_ |
+| 4| Deployment    |               | _5%_  |
 
 ### Why that percentaje?
 - **Code**: The code is not easy part. You need to have the logic and understand the rules.
