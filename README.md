@@ -32,7 +32,9 @@ Every repository will have the the code that meets the requirements.
 - **Test**: Tests are essential to work with Smart Contracts (and general development) and you need to be able to write _**good tests**_.
 - **Deploy**: The deployment, in this case, is the easiest point.
 
-### **Bonus**
-
-- [ ] Write a Smart Contract that generate a random number.
-  - I doesn't care the range of the random number.
+### Special subjects:
+- transfer() function
+- Dates in Solidity
+- mapping
+- Structures
+- require() validations
